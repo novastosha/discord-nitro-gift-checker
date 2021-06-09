@@ -1,0 +1,16 @@
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/bin/Debug/net5.0/Discord Nitro Checker
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/bin/Debug/net5.0/Discord Nitro Checker.deps.json
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/bin/Debug/net5.0/Discord Nitro Checker.runtimeconfig.json
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/bin/Debug/net5.0/Discord Nitro Checker.runtimeconfig.dev.json
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/bin/Debug/net5.0/Discord Nitro Checker.dll
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/bin/Debug/net5.0/ref/Discord Nitro Checker.dll
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/bin/Debug/net5.0/Discord Nitro Checker.pdb
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/Discord Nitro Checker.csproj.AssemblyReference.cache
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/Discord Nitro Checker.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/Discord Nitro Checker.AssemblyInfoInputs.cache
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/Discord Nitro Checker.AssemblyInfo.cs
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/Discord Nitro Checker.csproj.CoreCompileInputs.cache
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/Discord Nitro Checker.dll
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/ref/Discord Nitro Checker.dll
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/Discord Nitro Checker.pdb
+/mnt/0E9E8E9B9E8E7B4B/Discord Nitro Checker/obj/Debug/net5.0/Discord Nitro Checker.genruntimeconfig.cache

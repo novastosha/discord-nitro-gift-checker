@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Discord Nitro Checker/1.0.0": {
+        "runtime": {
+          "Discord Nitro Checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Discord Nitro Checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
